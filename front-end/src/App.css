@@ -1,0 +1,25 @@
+@media (max-width:575px) {
+    .border-userList{
+        border-color: rgb(14, 223, 171);
+        border-width: 3px ;
+}
+}
+
+body{
+    background-color: #ECF4D6;
+}
+
+.userList-card-bg{
+    background-color: #9AD0C2;
+}
+
+.userProfile-card-bg{
+    background-color: #265073 !important;
+}
+
+.userProfile-wc{
+    color: #557C55;
+}
+.userProfile-name{
+    color: #A6CF98;
+}
